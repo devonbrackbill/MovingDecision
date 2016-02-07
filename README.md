@@ -2,6 +2,8 @@
 
 We were considering moving to several places around the country. This program scrapes data from http://www.bestplaces.net/ for all the locations we were considering.
 
+![temperature range](figures/TempRange.png)
+
 # Description
 
 * `runAll.sh` is the shell script to run everything
