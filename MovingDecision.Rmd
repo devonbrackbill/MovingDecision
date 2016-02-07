@@ -1,0 +1,107 @@
+---
+title: "Moving Decision"
+output: html_document
+---
+
+# Weather
+
+### Average Temps in Jan and July
+
+The big jump comes when CA and FL don't have winter temperatures below freezing!
+
+![](figures/TempRange.png)
+
+### Average Rainy and Sunny Days
+
+![](figures/Sunny.Days.png)
+![](figures/Precipitation.Days.png)
+
+### Dreaded Snowfall
+
+![](figures/Snowfall..in...png)
+
+### Sun
+
+![](figures/UV.Index.png)
+
+# Cost of Living
+
+### Overall Cost of Living (Relative to US = 100)
+
+![](figures/Overall.png)
+
+### Housing
+
+![](figures/Housing.png)
+
+### Income Taxes (State + Local)
+
+![](figures/Income.Taxes.png)
+
+### Sales Taxes (State + Local)
+
+![](figures/Sales.Taxes.png)
+
+### Property Taxes
+
+Value is dollar amount / $1,000 that the property is appraised at.
+
+![](figures/Property.Tax.Rate.png)
+
+
+# Wealth
+
+### Median Family Income
+
+![](figures/Family.Median.Income.png)
+
+### Income Per Capita
+
+![](figures/Income.per.Cap..png)
+
+### Unemployment Rate
+
+![](figures/Unemployment.Rate.png)
+
+
+# Housing
+
+I think these amounts are too low for CA. The data is likely too old.
+
+### Median Home Age
+
+![](figures/Median.Home.Age.png)
+
+### Median Home Cost
+
+![](figures/Median.Home.Cost.png)
+
+### Avg 1-Bedroom Rent/Month
+
+![](figures/X1.Bedroom.Home.or.Apartment.png)
+
+### Avg 2-Bedroom Rent/Month
+
+![](figures/X2.Bedroom.Home.or.Apartment.png)
+
+# Commute
+
+### Avg Commute Time
+
+![](figures/Commute.Time.png)
+
+### % Riding Bicycles to Work
+![](figures/Bicycle.png)
+
+### % Taking Mass Transit
+
+![](figures/Mass.Transit.png)
+
+### % Walking
+
+![](figures/Walk.png)
+
+### % Working From Home
+
+![](figures/Work.at.Home.png)
+
